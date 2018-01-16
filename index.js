@@ -17,7 +17,5 @@ function dec(n) {
   return --n;
 }
 function makeInt(n) {
-  return parseInt(n) 
+  return parseInt(n, 10) 
 }
-function makeInt(n) {
-  return assumes base 10
