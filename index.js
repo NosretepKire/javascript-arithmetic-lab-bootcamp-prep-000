@@ -19,4 +19,5 @@ function dec(n) {
 function makeInt(n) {
   return parseInt(n, 10) 
 }
-function 
+function preserveDecimal(n) {
+  return preserves n's decimals (it parses n as a floating point number) and returns the parsed number:
