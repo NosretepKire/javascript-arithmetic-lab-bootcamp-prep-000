@@ -16,3 +16,4 @@ function inc(n) {
 function dec(n) {
   return --n;
 }
+function makeInt(n) parses n as an integer and returns the parsed integer
